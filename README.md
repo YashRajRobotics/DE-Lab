@@ -1,5 +1,6 @@
-# DigitalElectronics - Lab
-4 bit ALU Protius file (requires Protius software)
+# 4 Bit ALU
+DigitalElectronics - Lab
+(requires Protius software)
 
 This project focusses on showing how a 4-bit ALU works. An arithmetic logic unit (ALU) is a combinational digital electronic circuit that 
 performs arithmetic and bitwise operations on integer binary numbers. This is in contrast to a floating-point unit (FPU), which operates 
