@@ -1,5 +1,5 @@
 # 4 Bit ALU
-DigitalElectronics - Lab
+DigitalElectronics - Lab <br>
 (requires Protius software)
 
 This project focusses on showing how a 4-bit ALU works. An arithmetic logic unit (ALU) is a combinational digital electronic circuit that 
